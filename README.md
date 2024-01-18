@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-18 09:52:06 +0800`
+ `更新时间：2024-01-18 10:24:22 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [购买茶叶如何避免高价买到低茶？](https://www.v2ex.com/t/1009310)
 1. [有没有对电视有研究的大佬求推荐](https://www.v2ex.com/t/1009441)
 1. [求推荐好用的吹风机](https://www.v2ex.com/t/1009327)
+1. [MateBook14 到了， 32G+1TSSD+Xe 核显+i71360P，请问有没有完美黑苹果教程，希望装 Monterey](https://www.v2ex.com/t/1009352)
 
 ## 历史归档
 
