@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-02-04 07:08:40 +0800`
+ `更新时间：2024-02-04 08:42:35 +0800`
 
 ## 热议话题
 
-1. [有必要升级到 win11 吗](https://www.v2ex.com/t/1013804)
 1. [Zed 编辑器前景如何？能否撼动 VSCode 的地位](https://www.v2ex.com/t/1013847)
 1. [百度输入法 VIP 来了](https://www.v2ex.com/t/1013878)
 1. [iPhone 哪年能改善下信号啊](https://www.v2ex.com/t/1013875)
@@ -25,6 +24,7 @@
 1. [2024 年了，还有多少老哥在坚守 PHP 阵地的？](https://www.v2ex.com/t/1013837)
 1. [国内专利，电力行业的专利有多水？](https://www.v2ex.com/t/1013810)
 1. [求帮忙推荐一款适合装 Linux 的笔记本电脑](https://www.v2ex.com/t/1013900)
+1. [你们结婚后会上交工资卡吗？](https://www.v2ex.com/t/1013914)
 
 ## 历史归档
 
