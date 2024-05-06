@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-05-06 14:13:02 +0800`
+ `更新时间：2024-05-06 15:09:20 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [有兄弟们的家人在医院工作吗？如何让医生开心呢](https://www.v2ex.com/t/1037921)
 1. [25W 左右 suv 求推荐](https://www.v2ex.com/t/1037965)
 1. [开发时长一年半，新一代数据库、SSH/SFTP 跨平台桌面 GUI 工具](https://www.v2ex.com/t/1037926)
-1. [MacBookPRO 和 macMINI 应该选择哪一个?](https://www.v2ex.com/t/1037802)
 1. [现在有什么推荐的可以刷 Linux 的 arm 盒子吗](https://www.v2ex.com/t/1037854)
-1. [[直接送终生会员] 使用 electorn 开发的一款小巧翻译工具](https://www.v2ex.com/t/1037860)
 1. [现在的鼠标为什么都那么贵了？](https://www.v2ex.com/t/1037988)
+1. [日本的托儿所真便宜](https://www.v2ex.com/t/1037912)
+1. [[直接送终生会员] 使用 electorn 开发的一款小巧翻译工具](https://www.v2ex.com/t/1037860)
 
 ## 历史归档
 
