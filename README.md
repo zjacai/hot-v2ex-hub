@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-06-08 19:08:34 +0800`
+ `更新时间：2024-06-08 20:15:35 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,9 @@
 1. [各位使用自建节点的朋友都是用的什么内核和协议？](https://www.v2ex.com/t/1047885)
 1. [支付宝支持 iPhone NFC 了](https://www.v2ex.com/t/1047855)
 1. [Mac 显示器求推荐](https://www.v2ex.com/t/1047890)
-1. [自建 Docker Hub 镜像服务](https://www.v2ex.com/t/1047891)
+1. [有没有一种猫零食，类似磨牙棒，吃不了多少，又能持续啃很久。](https://www.v2ex.com/t/1047904)
 1. [小米 13U 无法注册八达通, 内置 Google 框架, 八达通 app 从 google play 下载安装. google 了一圈没有什么结果,请问大家有没有谁遇到过,怎么解决?](https://www.v2ex.com/t/1047897)
+1. [自建 Docker Hub 镜像服务](https://www.v2ex.com/t/1047891)
 
 ## 历史归档
 
