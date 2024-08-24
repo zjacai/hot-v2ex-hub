@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-08-24 22:09:37 +0800`
+ `更新时间：2024-08-24 23:10:08 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [0 基础自学 Python ，这个付费 Python 课程如何？请大佬给点建议](https://www.v2ex.com/t/1067502)
 1. [玩黑神话有感](https://www.v2ex.com/t/1067420)
 1. [用过的命令行总是忘，特别是偶尔用的，或者忘记 option 代表什么，每次都得查，有什么管理工具或者解决办法吗？](https://www.v2ex.com/t/1067416)
-1. [你喜欢更新手机上的 app 吗，多久更新一次](https://www.v2ex.com/t/1067417)
 1. [TCP 粘包？ 到底有没有粘包？](https://www.v2ex.com/t/1067508)
+1. [你喜欢更新手机上的 app 吗，多久更新一次](https://www.v2ex.com/t/1067417)
 1. [从 Plex 转到 Jellyfin 了，写一下体验](https://www.v2ex.com/t/1067391)
-1. [养了条小土狗，有没有便宜量大的狗粮推荐](https://www.v2ex.com/t/1067431)
+1. [日常支付，你是用微信还是支付宝](https://www.v2ex.com/t/1067463)
 
 ## 历史归档
 
