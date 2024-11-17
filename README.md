@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-17 12:13:26 +0800`
+ `更新时间：2024-11-17 13:11:33 +0800`
 
 ## 热议话题
 
 1. [大家 iPhone 的听歌软件是什么](https://www.v2ex.com/t/1090112)
 1. [4202 年了， Windows 能一键换机了吗](https://www.v2ex.com/t/1090146)
 1. [Godaddy 的两步验证千万别开啊，也别绑定信用卡](https://www.v2ex.com/t/1090153)
-1. [程序员转行建议](https://www.v2ex.com/t/1090123)
 1. [老安卓用户认为右滑返回是 iPhone 最辣鸡的功能](https://www.v2ex.com/t/1090194)
-1. [qbittorrent 比 transmission 有什么长处？](https://www.v2ex.com/t/1090062)
-1. [16G/256G 和 24G/512G 的 M4 Mac mini 怎么选?](https://www.v2ex.com/t/1090056)
+1. [程序员转行建议](https://www.v2ex.com/t/1090123)
 1. [25 秋招选手， offer 选择](https://www.v2ex.com/t/1090093)
+1. [金价还会继续跌吗？](https://www.v2ex.com/t/1090074)
+1. [视频混剪： 80 后动画片儿合集（一）（二）（三）](https://www.v2ex.com/t/1090105)
+1. [中国移动 8 元保号套餐，能不能改成流量卡？](https://www.v2ex.com/t/1090231)
 
 ## 历史归档
 
