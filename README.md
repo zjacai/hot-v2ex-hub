@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-24 14:14:58 +0800`
+ `更新时间：2024-11-24 15:10:20 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [一天背 30 个单词感觉受不了，正常吗](https://www.v2ex.com/t/1092096)
 1. [吐槽一下 jellyfin plex 这类流媒体服务， bug 太多了！](https://www.v2ex.com/t/1092019)
 1. [请教一下，目前 mac 玩 win 游戏的最佳姿势](https://www.v2ex.com/t/1092011)
-1. [为什么这两年这么多去香港开银行卡的](https://www.v2ex.com/t/1092108)
+1. [Only Apple can do 苹果的傻 X 逻辑，自己的设备无法自己做主](https://www.v2ex.com/t/1092129)
 
 ## 历史归档
 
