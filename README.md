@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-15 22:09:49 +0800`
+ `更新时间：2024-12-15 23:10:48 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [接盘步梯老破小顶楼，距离四川的太阳更近一步](https://www.v2ex.com/t/1097674)
 1. [B 站有办法让首页屏蔽掉短视频吗](https://www.v2ex.com/t/1097634)
 1. [如何避免各类 APP 大数据杀熟？](https://www.v2ex.com/t/1097656)
-1. [自己编译的 openwrt 固件最稳定好用](https://www.v2ex.com/t/1097664)
+1. [劝退贴 uniapp](https://www.v2ex.com/t/1097646)
 
 ## 历史归档
 
