@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-20 16:14:56 +0800`
+ `更新时间：2024-12-20 17:11:49 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [我的女儿跟我说：可是妈妈，我不是小孩子了](https://www.v2ex.com/t/1098954)
 1. [Google 不再是最好的搜索引擎](https://www.v2ex.com/t/1098937)
 1. [百度云盘值得开 svip 吗](https://www.v2ex.com/t/1098862)
-1. [github 10K star 是什么水平？](https://www.v2ex.com/t/1098975)
 1. [B 站出年度报告了， xdm 都看了多少个小时](https://www.v2ex.com/t/1099050)
+1. [github 10K star 是什么水平？](https://www.v2ex.com/t/1098975)
 
 ## 历史归档
 
