@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-01-17 21:16:26 +0800`
+ `更新时间：2025-01-17 22:10:03 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [人生第一辆车求推荐](https://www.v2ex.com/t/1105804)
 1. [我爸几乎是我噩梦的根源，我该如何与他相处？](https://www.v2ex.com/t/1105718)
 1. [支付宝这次事故的真相是什么？](https://www.v2ex.com/t/1105721)
-1. [大家有没有让人上头的小游戏，简单而且让人上瘾](https://www.v2ex.com/t/1105675)
-1. [求助：政务 app 在 AppStore 上架问题](https://www.v2ex.com/t/1105749)
 1. [最后悔的两件事，结婚和生娃](https://www.v2ex.com/t/1105924)
+1. [求助：政务 app 在 AppStore 上架问题](https://www.v2ex.com/t/1105749)
+1. [又是买不到车票的一年，我焦虑了吗](https://www.v2ex.com/t/1105744)
 
 ## 历史归档
 
