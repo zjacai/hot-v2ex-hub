@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-02-27 07:11:30 +0800`
+ `更新时间：2025-02-27 08:55:18 +0800`
 
 ## 热议话题
 
@@ -21,6 +21,7 @@
 1. [低层开发仔，越来越担忧被 AI 取代了](https://www.v2ex.com/t/1114252)
 1. [萌新的我创作了一首歌并通过网易云审核上架了](https://www.v2ex.com/t/1114302)
 1. [国产手机哪一家和型号完美支持 Telegram?](https://www.v2ex.com/t/1114262)
+1. [Apple 教育优惠叠加国补， 3000 可买 MacMini M4 版本](https://www.v2ex.com/t/1114363)
 
 ## 历史归档
 
