@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-23 17:11:00 +0800`
+ `更新时间：2025-03-23 18:11:22 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [有替代 Proxy SwitchyOmega 的插件吗](https://www.v2ex.com/t/1120361)
 1. [中国联通申请了 PCDN 识别的专利](https://www.v2ex.com/t/1120381)
 1. [领完大礼包了，差不多一个礼拜又找到了工作，但是落差挺大](https://www.v2ex.com/t/1120349)
-1. [做了个单词消消乐小程序，不会推广怎么办？](https://www.v2ex.com/t/1120331)
+1. [微软将于 10 月 14 日停止支持 UWP 版 OneNote](https://www.v2ex.com/t/1120392)
 
 ## 历史归档
 
