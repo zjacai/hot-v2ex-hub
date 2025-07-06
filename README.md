@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-07-06 21:22:46 +0800`
+ `更新时间：2025-07-06 22:11:12 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,6 @@
 1. [OpenClash 更新 UI 了](https://www.v2ex.com/t/1143277)
 1. [M4 Pro 虚拟机运行 Win11 系统](https://www.v2ex.com/t/1143284)
 1. [发现一个有意思的天气网站（气温地图）](https://www.v2ex.com/t/1143299)
-1. [我的开源项目，官网域名好像被墙了](https://www.v2ex.com/t/1143322)
 1. [周末写了一个免费 chrome 插件，可以把当前选项卡的链接转成 chromium 风格的二维码](https://www.v2ex.com/t/1143291)
 
 ## 历史归档
