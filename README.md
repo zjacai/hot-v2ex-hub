@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-01 19:11:51 +0800`
+ `更新时间：2025-10-01 20:26:27 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [我记性很差，程序员是不是都这样？](https://www.v2ex.com/t/1162973)
 1. [老家人为了面子太铺张了](https://www.v2ex.com/t/1162977)
 1. [感觉不少前端框架 版本升级似乎很不喜欢搞兼容?](https://www.v2ex.com/t/1162990)
+1. [JetBrains All Products Pack 累计十年续费达成～](https://www.v2ex.com/t/1162980)
 1. [国庆还有哪些兄弟能坚持签到？](https://www.v2ex.com/t/1162996)
 1. [唐库全自动写小说系统 1.0 发布，可生成逻辑自洽、连贯到连 Gemini 都找不出 bug 的长篇小说](https://www.v2ex.com/t/1163009)
 1. [Unifi 路由器下 IPv6 SLAAC 配置不定时断流问题](https://www.v2ex.com/t/1162970)
-1. [币圈真的太惨烈了](https://www.v2ex.com/t/1163025)
 
 ## 历史归档
 
