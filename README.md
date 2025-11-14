@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-11-14 07:12:32 +0800`
+ `更新时间：2025-11-14 09:02:10 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,10 @@
 1. [中大型 suv 推荐](https://www.v2ex.com/t/1172424)
 1. [NSFW 小站收藏](https://www.v2ex.com/t/1172433)
 1. [你们睡觉是穿什么衣服睡觉的?](https://www.v2ex.com/t/1172518)
-1. [现在还有用 10 系显卡的吗？](https://www.v2ex.com/t/1172423)
 1. [带血的馒头是如此难以下咽](https://www.v2ex.com/t/1172494)
-1. [来看下国内快应用有多先进](https://www.v2ex.com/t/1172417)
 1. [感觉现在很多东西都好便宜](https://www.v2ex.com/t/1172490)
+1. [扒拉算了一下， NAS 电费比 115 还贵](https://www.v2ex.com/t/1172522)
+1. [安卓这点是真的让人不爽了。](https://www.v2ex.com/t/1172440)
 
 ## 历史归档
 
