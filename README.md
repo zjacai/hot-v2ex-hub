@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-11-15 09:00:51 +0800`
+ `更新时间：2025-11-15 11:01:09 +0800`
 
 ## 热议话题
 
-1. [老婆说 0.8 小时就是 80 分钟， V 友们有同款老婆吗？](https://www.v2ex.com/t/1172722)
-1. [一句话说出你看过周星驰！](https://www.v2ex.com/t/1172689)
-1. [公司推了 2 个月 vibe coding，开始要 1 人 1 项目了，不达标降岗降薪](https://www.v2ex.com/t/1172708)
-1. [好奇有多少 v 友领到过 1.5 倍的加班工资的](https://www.v2ex.com/t/1172687)
-1. [求音乐推荐，一听就能共鸣的那种](https://www.v2ex.com/t/1172733)
-1. [给父母个新手机 2-3k 求推荐](https://www.v2ex.com/t/1172690)
 1. [大家看了挺多，动漫，电影，小说，有没有那种一听就很牛的名字？](https://www.v2ex.com/t/1172765)
-1. [新垮掉的一代](https://www.v2ex.com/t/1172709)
-1. [今天生日，简单记录下](https://www.v2ex.com/t/1172728)
 1. [微软免费的 Microsoft 365 E3 全局账号注册---免费使用 OFFICE、5TB Onedrive 以及微软企业邮局](https://www.v2ex.com/t/1172827)
+1. [怎样让老婆给丈母娘降薪](https://www.v2ex.com/t/1172871)
+1. [来兑现 Claude 月卡承诺 继续送新和抽](https://www.v2ex.com/t/1172780)
+1. [各位，启动广告真心好恶心，除了换成苹果真心没办法解决嘛？鸿蒙会不？](https://www.v2ex.com/t/1172815)
+1. [35+劳动合同续签了](https://www.v2ex.com/t/1172813)
+1. [有的奶没乳糖？](https://www.v2ex.com/t/1172760)
+1. [打算重装系统，装 windows11 英文版并且磁盘全部规划到 C 盘（500G），这是不是一个愚蠢的行为？](https://www.v2ex.com/t/1172753)
+1. [你有哪些“长期主义”好物？](https://www.v2ex.com/t/1172887)
 
 ## 历史归档
 
